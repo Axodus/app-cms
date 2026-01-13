@@ -65,5 +65,6 @@
     "0x1999ef52700c34de7ec2b68a28aafb37db0c5ade",
     "0xd5ED34b52AC4ab84d8FA8A231a3218bbF01Ed510"
   ],
-  "arbitrum-mainnet": ["0x4f47bc496083c727c5fbe3ce9cdf2b0f6496270c"]
+  "arbitrum-mainnet": ["0x4f47bc496083c727c5fbe3ce9cdf2b0f6496270c"],
+  "harmony": ["0x76B83B6148ccA891D768cE3129585F25d0104783"]
 }
