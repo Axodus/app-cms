@@ -18,7 +18,6 @@
     "description": "Think in Coin DAO is a decentralized governance model where the community collectively and transparently decides the direction of the ecosystem. ",
     "logo": "https://amethyst-blank-puma-863.mypinata.cloud/ipfs/QmQoF4TmMvbCL1xH8TYgF1dFsp12Y8LeW7feYiWuCJ1vWp",
     "network": "harmony-mainnet",
-    "ens": "thinkincoin.eth",
     "address": "0x76B83B6148ccA891D768cE3129585F25d0104783"
   },
   {
@@ -26,7 +25,6 @@
     "description": "Harmony is an open and fast blockchain. Our mainnet runs Ethereum applications with 2-second transaction finality and 100 times lower fees.",
     "logo": "https://amethyst-blank-puma-863.mypinata.cloud/ipfs/Qmc9UwRrDXr13tZnzeYd5J6Z7PEUEVoKSNF2MGPRDvJbKF",
     "network": "harmony-mainnet",
-    "ens": "harmony-mainnet.eth",
     "address": "0xdBE91256eA76CDc7cb2511D33e20aa4830d1c3c2"
   },
   {
@@ -34,7 +32,6 @@
     "description": "A governance body composed of network validators, responsible for coordinating consensus-related decisions, proposing protocol improvements, and safeguarding the security, stability, and decentralization of the network.",
     "logo": "https://amethyst-blank-puma-863.mypinata.cloud/ipfs/QmRfag3PbnuorBa3GPPpdvCN5z46XhgdYKYe9bEcPP41ci",
     "network": "harmony-mainnet",
-    "ens": "validator-dao.eth",
     "address": "0xD76C453b99D8c3c033Bfb40Bf9EA7853fbe77bDd"
   }
 ]
