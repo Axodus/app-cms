@@ -9,7 +9,7 @@
   {
     "name": "Developers DAO",
     "description": "A DAO responsible for generating dApp development requests for the Harmony network, evaluating proposals, and executing approved projects with community validation and oversight.",
-    "logo": "https://amethyst-blank-puma-863.mypinata.cloud/ipfs/QmS9mFvwjxiQbQu3E39EPA2s6b4EXEA4ooFP9uc8Fyfyvk",
+    "logo": "https://amethyst-blank-puma-863.mypinata.cloud/ipfs/QmRyHsHPg8MqjXoD3iu1CMquTb2N1Z6wKgAuUocG3vmjo2",
     "network": "harmony-mainnet",
     "address": "0x09aeF58ba8FB4277E1c4B41290De2028B30e141e"
   },
@@ -20,5 +20,21 @@
     "network": "harmony-mainnet",
     "ens": "thinkincoin.eth",
     "address": "0x76B83B6148ccA891D768cE3129585F25d0104783"
+  },
+  {
+    "name": "Harmony Mainnet",
+    "description": "Harmony is an open and fast blockchain. Our mainnet runs Ethereum applications with 2-second transaction finality and 100 times lower fees.",
+    "logo": "https://amethyst-blank-puma-863.mypinata.cloud/ipfs/Qmc9UwRrDXr13tZnzeYd5J6Z7PEUEVoKSNF2MGPRDvJbKF",
+    "network": "harmony-mainnet",
+    "ens": "harmony-mainnet.eth",
+    "address": "0xdBE91256eA76CDc7cb2511D33e20aa4830d1c3c2"
+  },
+  {
+    "name": "Validators DAO",
+    "description": "A governance body composed of network validators, responsible for coordinating consensus-related decisions, proposing protocol improvements, and safeguarding the security, stability, and decentralization of the network.",
+    "logo": "https://amethyst-blank-puma-863.mypinata.cloud/ipfs/QmRfag3PbnuorBa3GPPpdvCN5z46XhgdYKYe9bEcPP41ci",
+    "network": "harmony-mainnet",
+    "ens": "validator-dao.eth",
+    "address": "0xD76C453b99D8c3c033Bfb40Bf9EA7853fbe77bDd"
   }
 ]
