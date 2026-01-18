@@ -13,13 +13,13 @@
     "network": "harmony-mainnet",
     "address": "0x5AceA982a17F0822312D0B7A753168274F0E2577"
   },
-  { /*
+  { "_disabled_feature:{
     "name": "Think in Coin Governance",
     "description": "Think in Coin DAO is a decentralized governance model where the community collectively and transparently decides the direction of the ecosystem. ",
     "logo": "https://amethyst-blank-puma-863.mypinata.cloud/ipfs/",
     "network": "harmony-mainnet",
     "address": "0x07b2842F19034d6392712a808C62510209f6439F"
-  */ },
+  }},
   {
     "name": "UtillityDAO",
     "description": "Bringing Utility to the Harmony ecosystem. Creators of uONE, a liquid staking solution, opening up the liquidity of Harmony's Open Consensus to the DeFi Space. UtilityDAO Validator supporting the network since q1 2026 ",
